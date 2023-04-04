@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Otabek-Rizayev
 - 👀 I’m interested in AI engineering
 - 🌱 I’m currently learning AI at mohirdev.uz
-- 💞️ I’m looking to collaborate on @AsyncAI
+- 💞️ I’m looking to collaborate on [@AsyncAI](https://github.com/asyncai)
 - 📫 How to reach me [otabek_rizayev.t.me](https://otabek_rizayev.t.me)
 
 [![wakatime](https://wakatime.com/badge/user/7bc425b9-713b-42ba-ab6b-21cdfebb2fe5.svg)](https://wakatime.com/@7bc425b9-713b-42ba-ab6b-21cdfebb2fe5)
