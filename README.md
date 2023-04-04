@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on @AsyncAI
 - 📫 How to reach me [otabek_rizayev.t.me](https://otabek_rizayev.t.me)
 
-<!---
-Otabek-Rizayev/Otabek-Rizayev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![wakatime](https://wakatime.com/badge/user/7bc425b9-713b-42ba-ab6b-21cdfebb2fe5.svg)](https://wakatime.com/@7bc425b9-713b-42ba-ab6b-21cdfebb2fe5)
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=otabek-rizayev&show_icons=true&theme=dracula)
+# My favourite languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otabek-rizayev)](https://github.com/anuraghazra/github-readme-stats)
